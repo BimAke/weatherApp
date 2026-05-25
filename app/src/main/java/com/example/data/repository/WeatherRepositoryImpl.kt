@@ -16,7 +16,7 @@ class WeatherRepositoryImpl(
 
         return api.getWeather(
             city,
-            "YOUR_API_KEY"
+            "73490fc56cc5034d82f4254c05a5bb4c"
         )
     }
 }
